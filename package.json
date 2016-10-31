@@ -44,7 +44,7 @@
     "karma-sourcemap-loader": "^0.3.7",
     "karma-webpack": "^1.7.0",
     "knockout": "^3.4.0",
-    "lodash": "^4.11.2",
+    "lodash": "^4.16.5",
     "mocha": "^3.0.2",
     "mocha-loader": "^0.7.1",
     "pre-commit": "^1.1.2",
